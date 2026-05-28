@@ -1,3 +1,3 @@
-Hello from feature
+Hello from master
 day 2
 checking conf
